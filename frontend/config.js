@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME || "whatsdapp.testnet";
+const CONTRACT_NAME = process.env.CONTRACT_NAME || "testaccount19239129312.testnet";
 
 function getConfig(env) {
   switch (env) {
